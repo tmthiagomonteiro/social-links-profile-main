@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #897c7c;
+    color: #034d92;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(131, 116, 116);
+}
+.avatar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+#Github {
+    display: flex;
+    
+}
+#Frontend {
+    display: flex;
+}
+#Linkedin {
+    display: flex;
+}
+#Instagram {
+    display: flex;
+}
